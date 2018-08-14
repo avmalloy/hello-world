@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+My name is Amanda and I'm ready to learn!
